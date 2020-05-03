@@ -8,3 +8,7 @@ Actual Cannibal Shia Labeouf! is a fanmade text-based adventure written in Javas
  I'm still really new to all of this so I'm sure there's room for improvement. I used the package readline-sync to help build the game. If you download the game and enjoy it let me know! I'm open to all feedback!
 
  # Now go get eaten by Actual Cannibal Shia Labeouf!
+
+ This game is meant to be ran in your terminal/command line. 
+
+ Open your terminal and navigate to the folder you downloaded it to and type in "node index.js" to play!
